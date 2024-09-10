@@ -78,8 +78,8 @@ To deploy the Streamlit Application in [Cloud Run](https://cloud.google.com/run/
    In Cloud Shell, execute the following commands:
 
    ```bash
-   export GCP_PROJECT='<Your Google Cloud Project ID>'  # Change this
-   export GCP_REGION='us-central1'             # If you change this, make sure the region is supported.
+   export GCP_PROJECT='core-demos'
+   export GCP_REGION='europe-west1'
    ```
 
 2. Build and deploy the service to Cloud Run:
@@ -87,7 +87,7 @@ To deploy the Streamlit Application in [Cloud Run](https://cloud.google.com/run/
    In Cloud Shell, execute the following command to name the Cloud Run service:
 
    ```bash
-   export SERVICE_NAME='gemini-streamlit-app' # This is the name of our Application and Cloud Run service. Change it if you'd like.
+   export SERVICE_NAME='gemini-streamlit-app'
    ```
 
    In Cloud Shell, execute the following command:
