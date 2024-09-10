@@ -84,7 +84,7 @@ To deploy the Streamlit Application in [Cloud Run](https://cloud.google.com/run/
    In Cloud Shell, execute the following command to name the Cloud Run service:
 
    ```bash
-   export SERVICE_NAME='gemini-streamlit-app'
+   export SERVICE_NAME='genai-startup-app'
    ```
 
    In Cloud Shell, execute the following command:
