@@ -1,8 +1,5 @@
 # Cloud Run application utilizing Streamlit Framework that demonstrates working with Vertex AI Gemini API
 
-|           |                                                |
-| --------- | ---------------------------------------------- |
-| Author(s) | [Lavi Nigam](https://github.com/lavinigam-gcp) |
 
 This application demonstrates a Cloud Run application that uses the [Streamlit](https://streamlit.io/) framework.
 
