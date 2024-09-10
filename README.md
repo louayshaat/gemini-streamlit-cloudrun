@@ -41,8 +41,8 @@ To run the Streamlit Application locally (on Cloud Shell), we need to perform th
    In Cloud Shell, execute the following commands:
 
    ```bash
-   export GCP_PROJECT='<Your Google Cloud Project ID>'  # Change this
-   export GCP_REGION='us-central1'             # If you change this, make sure the region is supported.
+   export GCP_PROJECT='core-demos'
+   export GCP_REGION='europe-west1'
    ```
 
 3. To run the application locally, execute the following command:
