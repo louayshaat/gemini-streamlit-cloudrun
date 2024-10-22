@@ -84,7 +84,7 @@ To deploy the Streamlit Application in [Cloud Run](https://cloud.google.com/run/
    In Cloud Shell, execute the following command to name the Cloud Run service:
 
    ```bash
-   export SERVICE_NAME='gitex-startup-app'
+   export SERVICE_NAME='google-startup-app'
    ```
 
    In Cloud Shell, execute the following command:
